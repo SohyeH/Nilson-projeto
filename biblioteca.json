@@ -1,0 +1,202 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Ficção"
+    },
+    {
+      "id": 2,
+      "nome": "Não Ficção"
+    },
+    {
+      "id": 3,
+      "nome": "História"
+    },
+    {
+      "id": 4,
+      "nome": "Terror"
+    },
+    {
+      "id": 5,
+      "nome": "Mistérios"
+    },
+    {
+      "id": 6,
+      "nome": "Comédia"
+    },
+    {
+      "id": 7,
+      "nome": "Ação"
+    },
+    {
+      "id": 8,
+      "nome": "Fantasia"
+    },
+    {
+      "id": 9,
+      "nome": "Horror"
+    },
+    {
+      "id": 10,
+      "nome": "Animação"
+    },
+    {
+      "id": 11,
+      "nome": "Terror psicológico"
+    },
+    {
+      "id": 12,
+      "nome": "Drama"
+    },
+    {
+      "id": 13,
+      "nome": "Documentário"
+    }
+  ],
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "Dom Quixote",
+      "autor": "Miguel de Cervantes",
+      "anoPublicacao": 1605,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 1
+    },
+    {
+      "id": 2,
+      "titulo": "Origens",
+      "autor": "Neil deGrasse Tyson",
+      "anoPublicacao": 2017,
+      "isbn": "978-85-359-0650-4",
+      "disponivel": true,
+      "categoriaId": 2
+    },
+    {
+      "id": 3,
+      "titulo": "Uma Breve História do Tempo",
+      "autor": "Stephen Hawking",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 2
+    },
+    {
+      "titulo": "It - A coisa",
+      "autor": "Stephen King",
+      "anoPublicacao": 1987,
+      "isbn": "978-85-359-0277-2",
+      "disponivel": true,
+      "categoriaId": 4,
+      "id": 4
+    },
+    {
+      "titulo": "O Homem de Giz",
+      "autor": "C. J. Tudor",
+      "anoPublicacao": 2018,
+      "isbn": "978-85-359-0277-2",
+      "disponivel": true,
+      "categoriaId": 5,
+      "id": 6
+    },
+    {
+      "titulo": "Diário de um banana",
+      "autor": "Jeff Kinney",
+      "anoPublicacao": 2007,
+      "isbn": "978-85-359-0277-6",
+      "disponivel": true,
+      "categoriaId": 6,
+      "id": 7
+    },
+    {
+      "titulo": "Duna",
+      "autor": "Frank Herbert",
+      "anoPublicacao": 1965,
+      "isbn": "978-85-359-0277-7",
+      "disponivel": true,
+      "categoriaId": 7,
+      "id": 8
+    },
+    {
+      "titulo": "Harry Potter e a Pedra Filosofal",
+      "autor": "J.K. Rowling",
+      "anoPublicacao": 1997,
+      "isbn": "978-85-359-0277-8",
+      "disponivel": true,
+      "categoriaId": 8,
+      "id": 9
+    },
+    {
+      "titulo": "O Iluminado",
+      "autor": "Stephen King",
+      "anoPublicacao": 1977,
+      "isbn": "978-85-359-0277-9",
+      "disponivel": true,
+      "categoriaId": 9,
+      "id": 10
+    },
+    {
+      "titulo": "Alice no País das Maravilhas",
+      "autor": "Lewis Carroll",
+      "anoPublicacao": 1865,
+      "isbn": "978-85-359-0278-1",
+      "disponivel": true,
+      "categoriaId": 10,
+      "id": 11
+    },
+    {
+      "titulo": "Psicose",
+      "autor": "Robert Bloch",
+      "anoPublicacao": 1959,
+      "isbn": "978-85-359-0278-2",
+      "disponivel": true,
+      "categoriaId": 11,
+      "id": 12
+    },
+    {
+      "titulo": "Romeu e Julieta",
+      "autor": "William Shakespeare",
+      "anoPublicacao": 1597,
+      "isbn": "978-85-359-0278-3",
+      "disponivel": true,
+      "categoriaId": 12,
+      "id": 13
+    },
+    {
+      "titulo": "A História Secreta",
+      "autor": "Donna Tartt",
+      "anoPublicacao": 1992,
+      "isbn": "978-85-359-0278-4",
+      "disponivel": true,
+      "categoriaId": 13,
+      "id": 14
+    },
+    {
+      "titulo": "O Código Da Vinci",
+      "autor": "Dan Brown",
+      "anoPublicacao": 2003,
+      "isbn": "978-85-359-0278-5",
+      "disponivel": true,
+      "categoriaId": 1,
+      "id": 15
+    },
+    {
+      "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+      "autor": "J.R.R. Tolkien",
+      "anoPublicacao": 1954,
+      "isbn": "978-85-359-0278-6",
+      "disponivel": true,
+      "categoriaId": 8,
+      "id": 16
+    },
+    {
+      "titulo": "O Nome do Vento",
+      "autor": "Patrick Rothfuss",
+      "anoPublicacao": 2007,
+      "isbn": "978-85-359-0278-7",
+      "disponivel": true,
+      "categoriaId": 8,
+      "id": 17
+    }
+  ]
+}
